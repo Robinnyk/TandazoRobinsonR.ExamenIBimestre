@@ -13,7 +13,7 @@ public class AntCiberDron extends TandazoRobinsoncvs{
 
         trHSoldado hormiga = new trHSoldado(null);
 
-        System.out.println("Bienvenido al inIcio de sesión");
+        System.out.println("Bienvenido al inicio de sesión");
         System.out.println("Por favor, digite su nombre o cédula:");
         String logIn = sc.nextLine();
         logIn = logIn.toLowerCase();
