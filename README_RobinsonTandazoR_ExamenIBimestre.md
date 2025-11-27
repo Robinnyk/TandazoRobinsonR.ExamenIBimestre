@@ -14,4 +14,4 @@ Cédula: 175129211-9
 Código Único: 202421157
 
 # Link Repositorio Github:
-https://github.com/Robinnyk/TandazoRobinsonR.PruebaII
+https://github.com/Robinnyk/TandazoRobinsonR.ExamenIBimestre
